@@ -17,3 +17,19 @@ The lab includes deploying a Windows Server domain controller, joining Windows c
 - Active Directory
 - Group Policy
 - Security Hardening
+
+
+## Documentation
+
+- [Lab Environment](environment.md)
+- [Implementation Steps](steps.md)
+- [Security Policies](gpo-settings.md)
+- [Full Practical Implementation Report](Practical-Implementation.pdf)
+
+## Skills Demonstrated
+
+- Active Directory Security Hardening
+- Group Policy Management
+- Windows Security Configuration
+- Security Policy Implementation
+- Endpoint Hardening
